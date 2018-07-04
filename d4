@@ -1,0 +1,3 @@
+x = input("!roll d4")
+y = random.randint (1, 4)
+print("Tap tap! You rolled a " + y)
